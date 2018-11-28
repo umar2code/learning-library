@@ -81,10 +81,12 @@ Your public key has been saved in /c/Users/username/.ssh/id\_rsa.pub.
 
  4) Enter your user name and password
  
-- **Cloud Tenant**: {{43994a84-1a2a-5357-a002-7422dfc3a641.output.tenancy_name}}
- - **Username:** {{43994a84-1a2a-5357-a002-7422dfc3a641.output.usernames_list}}
+- **Cloud Tenant**: _Access details from the console_
+ - **Username:** _Access details from the console_
 
-
+ - **Password:** _Access details from the console_
+ 
+ 
  ![]( ../Identity_Access_Management/img/image003.png)
 
 When you sign in to the Console, the home page is displayed.
