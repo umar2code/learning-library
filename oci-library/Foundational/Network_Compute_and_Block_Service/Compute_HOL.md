@@ -21,7 +21,7 @@
 ## Overview
 
 Oracle has built Oracle Cloud Infrastructure(OCI) platform that can run both Oracle workloads and cloud native applications. In this hands on lab, we will walk through getting an apache webserver running on a compute instance on OCI. The purpose of this lab is to get familiar with Oracle Cloud Infrastructures primitives. At the end of this lab, you will be familiar with creating a network, launching an instance, and accessing the instance.
-
+This lab provides details on compute
 >**Note:** Some of the UIs might look a little different than the screenshots included in the instructions, but you can still use the instructions to complete the hands-on labs.
 
 ## Pre-Requisites 
@@ -95,7 +95,7 @@ When you sign in to the Console, the home page is displayed.
 
 The home page gives you quick links to the documentation and to Oracle Support.
 
-## Practice 3: Create a Virtual Cloud Network
+## Practice 3: Create a Virtual Cloud Network on OCI
 A Virtual Cloud Network (VCN) is a virtual version of a traditional network including subnets, route tables, and gateways on which your compute instances run. Customers can bring their network topology to the cloud with VCN. Creating a VCN involves a few key aspects such as:
 
  - Allocate a private IP block for the cloud (CIDR range for the VCN).
