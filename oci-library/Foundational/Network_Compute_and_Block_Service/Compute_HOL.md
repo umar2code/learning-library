@@ -82,7 +82,7 @@ Your public key has been saved in /c/Users/username/.ssh/id\_rsa.pub.
  4) Enter your user name and password
  
 - **Cloud Tenant**: {{1aaa0d08-8d05-8832-7296-56a4af844ff2.output.tenancy_name}}
- - **Username:** {{1aaa0d08-8d05-8832-7296-56a4af844ff2.output.user_ocids}}
+ - **Username:** {{1aaa0d08-8d05-8832-7296-56a4af844ff2.variable.user_ocid}}
 
  - **Password:** {{1aaa0d08-8d05-8832-7296-56a4af844ff2.output.ui_passwords_list}}
  
